@@ -1,0 +1,4 @@
+selenium_env/
+.idea/
+*.log
+*.txt
